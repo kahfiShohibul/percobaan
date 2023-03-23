@@ -1,0 +1,115 @@
+.labeljudullogin{
+    position: absolute;
+    width: 117px;
+    height: 48px;
+    left: 850px;
+    top: 110px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #2B2B2B;
+}
+
+.labelemail1{
+    position: absolute;
+    width: 287px;
+    height: 24px;
+    left: 740px;
+    top: 180px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    padding-left: 5px;
+}
+.email1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 350px;
+    height: 40px;
+    left: 740px;
+    top: 212px;
+
+    background: #FFFFFF;
+    border: 1px solid #101828;
+    border-radius: 15px;
+}
+.labelpassword1{
+    position: absolute;
+    width: 287px;
+    height: 24px;
+    left: 740px;
+    top: 268px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    padding-left: 5px;
+}
+.password1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 350px;
+    height: 40px;
+    left: 740px;
+    top: 300px;
+
+    background: #FFFFFF;
+    border: 1px solid #101828;
+    border-radius: 15px;
+}
+.forgetpassword1{
+    position: absolute;
+    width: 287px;
+    height: 24px;
+    left: 910px;
+    top: 340px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+    color: black;
+}
+.submit1{
+    position: absolute;
+    width: 350px;
+    height: 40px;
+    left: 740px;
+    top: 402px;
+    border-radius: 15px;
+}
+.labelloginwithlogin{
+    position: absolute;
+    width: 468px;
+    height: 29px;
+    left: 750px;
+    top: 468px;
+    padding-left: 5px;
+}
+
+img.clasic1 {
+    display: block;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 70px;
+}
+
+img.logogooglelogin {
+    display: block;
+    margin-left: auto;
+    margin-right: 220px;
+    margin-top: 20px;
+}

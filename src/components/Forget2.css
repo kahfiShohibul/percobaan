@@ -1,0 +1,93 @@
+.labeljudulcek2{
+    position: absolute;
+    width: 466px;
+    height: 48px;
+    left: 670px;
+    top: 160px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+
+    color: #2B2B2B;
+}
+.labeljudulif2{
+    position: absolute;
+    width: 394px;
+    height: 58px;
+    left: 670px;
+    top: 236px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+
+    color: #555555;
+}
+
+.labelverifikasikode{
+    position: absolute;
+    width: 379px;
+    height: 24px;
+    left: 670px;
+    top: 316px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #555555;
+    padding-left: 5px;
+}
+
+.mengirimverifikasikode{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 250px;
+    height: 40px;
+    left: 670px;
+    top: 356px;
+
+    background: #FFFFFF;
+    border: 1px solid #101828;
+    border-radius: 15px;
+}
+
+.loginkirimulangtautan{
+    position: absolute;
+    width: 250px;
+    height: 40px;
+    left: 670px;
+    top: 412px;
+    border-radius: 15px;
+    /* transform: rotate(0.46deg); */
+    background: #FFFFFF;
+    color: #2B2B2B;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    line-height: 29px;
+}
+
+.loginverifikasikode{
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    left: 930px;
+    top: 412px;
+    border-radius: 15px;
+}
+
+img.clasic2 {
+    display: block;
+    margin-left: 70px;
+    margin-right: auto;
+    margin-top: -10px;
+}

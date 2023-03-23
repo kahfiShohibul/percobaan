@@ -1,0 +1,128 @@
+.labeljudulsignup{
+    position: absolute;
+    width: 146px;
+    height: 48px;
+    left: 850px;
+    top: 116px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #2B2B2B;
+}
+
+.labelusernameregis{
+    position: absolute;
+    width: 287px;
+    height: 24px;
+    left: 740px;
+    top: 180px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    padding-left: 5px;
+}
+.usernameregis{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 350px;
+    height: 40px;
+    left: 740px;
+    top: 212px;
+
+    background: #FFFFFF;
+    border: 1px solid #101828;
+    border-radius: 15px;
+}
+
+.labelemailregis{
+    position: absolute;
+    width: 287px;
+    height: 24px;
+    left: 740px;
+    top: 268px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    padding-left: 5px;
+}
+.emailregis{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 350px;
+    height: 40px;
+    left: 740px;
+    top: 300px;
+
+    background: #FFFFFF;
+    border: 1px solid #101828;
+    border-radius: 15px;
+}
+.labelpasswordregis{
+    position: absolute;
+    width: 287px;
+    height: 24px;
+    left: 740px;
+    top: 356px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    padding-left: 5px;
+}
+.passwordregis{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 350px;
+    height: 40px;
+    left: 740px;
+    top: 388px;
+
+    background: #FFFFFF;
+    border: 1px solid #101828;
+    border-radius: 15px;
+}
+.signupregis{
+    position: absolute;
+    width: 350px;
+    height: 40px;
+    left: 740px;
+    top: 452px;
+    border-radius: 15px;
+}
+.labelloginwithregis{
+    position: absolute;
+    width: 350px;
+    height: 40px;
+    left: 740px;
+    top: 516px;
+    padding-left: 5px;
+}
+
+img.clasic1 {
+    display: block;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 70px;
+}
+
+img.logogoogleregis {
+    display: block;
+    margin-left: auto;
+    margin-right: 225px;
+    margin-top: 60px;
+}
